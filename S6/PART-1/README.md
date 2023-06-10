@@ -136,11 +136,11 @@ In the sheet ```Experiment``` in the Excel file, these values are calculated and
 
 Different Learning Rates are used to train the neural network. We find that the neural network converges faster as the learning rate increases. However, if the learning rate is too high, the neural network does not converge at all. This is because the weights are updated by a large amount in every iteration and the neural network does not converge.
 Attaching screenshots of the neural network converging for different learning rates.
-![Learning Rate = 1](Screenshots/LR1.png)
-![Learning Rate = 0.01](Screenshots/LR02.png)
-![Learning Rate = 0.05](Screenshots/LR05.png)
-![Learning Rate = 0.08](Screenshots/LR08.png)
-![Learning Rate = 10000](Screenshots/LR10000.png)
+![Learning Rate = 1](ScreenShots/LR1.png)
+![Learning Rate = 0.01](ScreenShots/LR02.png)
+![Learning Rate = 0.05](ScreenShots/LR05.png)
+![Learning Rate = 0.08](ScreenShots/LR08.png)
+![Learning Rate = 10000](ScreenShots/LR10000.png)
 
 
 
